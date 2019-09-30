@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void my_strlen(char *s)
+Double my_strlen(char *s)
 {
    char *p = s;
 
