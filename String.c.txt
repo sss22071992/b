@@ -7,10 +7,10 @@ Double my_strlen(char *s)
    while (*p)
       ++p;
 
-   return (p - s);
+   return (p - s); canged
 }
 
-int main(void)
+int main srting (void)
 {
    int i;
    char *s[] = 
