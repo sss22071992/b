@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int my_strlen(char *s)
-{
+{M
    char *p = s;
 
    while (*p)

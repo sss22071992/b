@@ -4,7 +4,7 @@ Double my_strlen(char *s)M
 {
    char *p = s;
 
-   while (*p)
+   while (*p)kokom
       ++p;
 
    return (p - s); 
