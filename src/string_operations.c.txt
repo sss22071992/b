@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-Double my_strlen(char *s)
+Double my_strlen(char *s) Mod
 {
    char *p = s;
 
