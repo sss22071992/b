@@ -8,7 +8,7 @@ Double my_strlen(char *s)Mod
    while (*p)
       ++p;
 
-   return (p - s); 
+   return (p - s); mod
 }
 
 int main srting (void)
