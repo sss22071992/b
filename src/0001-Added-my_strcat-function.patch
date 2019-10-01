@@ -1,0 +1,24 @@
+From 174297b7022e9b823169c4d23139c03b283c8ba5 Mon Sep 17 00:00:00 2001
+From: ssathish1992 <38930852+ssathish1992@users.noreply.github.com>
+Date: Tue, 1 Oct 2019 08:34:50 +0530
+Subject: [PATCH] Added my_strcat function
+
+---
+ src/string_operations.c.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/string_operations.c.txt b/src/string_operations.c.txt
+index 6adead0..685d93e 100644
+--- a/src/string_operations.c.txt
++++ b/src/string_operations.c.txt
+@@ -1,6 +1,6 @@
+ #include <stdio.h>
+ 
+-Double my_strlen(char *s)
++Double my_strlen(char *s) Mod
+ {
+    char *p = s;
+ 
+-- 
+2.22.0.windows.1
+

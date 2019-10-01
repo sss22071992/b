@@ -12,7 +12,7 @@ Double my_strlen(char *s) Mod
 
 int main srting (void)
 {
-   int i;
+   int i;mod
    char *s[] = 
    {
       "Git tutorials",
